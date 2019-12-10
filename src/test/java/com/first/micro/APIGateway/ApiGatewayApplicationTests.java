@@ -13,4 +13,8 @@ public class ApiGatewayApplicationTests {
 	public void contextLoads() {
 	}
 
+@Test
+public void testGetData(){
+	System.out.println("Unit test case...!");
+}
 }
