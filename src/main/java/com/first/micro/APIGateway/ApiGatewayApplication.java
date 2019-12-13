@@ -9,6 +9,7 @@ public class ApiGatewayApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(ApiGatewayApplication.class, args);
 		System.out.println("Welcome to api-gateway micro-service ...!");
+		System.out.println("Welcome to api-gateway micro-service2 ...!");
 	}
 
 }
